@@ -17,8 +17,8 @@ A simple activity that has students use print statements and variable manipulati
     d) The Account Balance
   
   B. Print out the variables so that it conforms to the following example:
-    "Bob's Bank of America account (ID: 204031) currently has $562.50 in it."
-  
+    "Bob's Bank of America account (ID: 204031) currently has $562.50 in it." 
+    
     Where Bob is the account holder name, Bank of America is the bank name, 204031 is the Account ID, and 562.50 is the account balance.
   
   C. Add $240.40 to the bank account
@@ -35,9 +35,9 @@ A simple activity that has students use print statements and variable manipulati
   java Main
   ```
 3. Check your work by executing this command and comparing formatting (values should be different)
-   ```bash
-   java Solution
-   ```
+  ```bash
+  java Solution
+  ```
 
 ## Non-Replit Usage
 WARNING - This project has only been tested in Replit. Using other IDEs may have undesired effects.
