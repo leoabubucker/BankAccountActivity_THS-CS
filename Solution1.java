@@ -1,4 +1,4 @@
-class Solution {
+class Solution1 {
   public static void main(String[] args) {
     String bankName = "Bank of America";
     String accnName = "Bob";

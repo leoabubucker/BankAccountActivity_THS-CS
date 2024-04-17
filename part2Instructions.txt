@@ -1,0 +1,18 @@
+Add the following to the activity: 
+
+1. Add at least 1 if statement to the code that changes a variable 
+2. Add an else and else if statement to the code 
+3. Use operators on at least one of the conditionals (for ex. ||, &&, ==)
+4. Run the program by executing the following commands in the shell:
+
+  javac [filename].java
+  java [filename]
+  Note: filename is "Main" by default
+
+5. Change the value of what your conditional is checking to make sure you can get different returns depending on the value. Run the following commands to see how a program can return different values. 
+  
+  java Solution2 1000
+  java Solution2 300
+  java Solution2 100
+
+  

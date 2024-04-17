@@ -1,0 +1,26 @@
+1. Open the Part3.java file. You will be creating a program that has the same functionality (does the same thing) as you're current code in Main.java, but with methods!
+
+NOTE: Everything declared outside of a method (in the general class) must start with static (i.e., static String, static int, static void myMethod(), etc.). We will explain why later.
+
+2. Declare the same variables you have in Main.java, this time declaring them in the class instead of a method.
+
+3. Create the following methods that return the new value: 
+  A) a method that adds to the current balance
+  B) a method that appends to the current name
+  C) a method that increments the ID. 
+  
+Remember, these methods should take a new value as a parameter, set the current value to the new value, and return the new value. 
+
+4. Create the following methods that don't return a value: 
+  A) a method that uses the conditional you created 
+  B) a method that prints the print statement that you have. 
+
+5. Create the main method. Remember, it must be created in a specific way. 
+
+6. Do the following in the main method:
+  A) Print the initial details
+  B) Add 240.40 to the account balance and print the following: "You're new balance is {balance}"
+  C) Append a last name to the account name and print the following: "You're new account name is {accountName}"
+  D) Increment the ID by 1 and print the following: "You're new account ID is {id}"
+  E) Print the new details
+  F) Print the status of your money (the conditional)
