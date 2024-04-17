@@ -1,0 +1,30 @@
+1. Open the Part4.java file. This part will have you using:
+ a) Arrays
+ b) For Loops
+ c) For-Each Loops
+ d) While Loops
+ e) Concatenation
+ f) String Methods
+
+2. Create a String Array that holds the names of the people in the club. Let's see how well you actually know people!
+
+3. Use a for loop to print every name and index on its own line in the following format:
+  0: name1
+  1: name2
+  2: name3
+
+4. Use a for-each loop to print every name on its own line
+
+5. Use a while loop to change every even indexed name to all lowercase and ever odd indexed name to all uppercase. Print the new names.
+
+6. Use a for loop to create a new String that holds the first character of every name. Print the String and its length.
+
+7. Use a for loop to concatenate (combine) all of the names into one String. Print that String. Then, split that string into an Array wherever the character "a" appears. Print the contents of that Array. 
+
+8. Run these shell commands to see your work:
+  javac Part4.java
+  java Part4
+
+9. Run these shell commands to check your work:
+  javac Solution4.java
+  java Solution4
